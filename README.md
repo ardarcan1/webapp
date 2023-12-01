@@ -11,6 +11,7 @@ mvn3 clean package
 ```
 
 ardardard
+anıl lütfen spora gel
 
 #Deploy instruction
 
